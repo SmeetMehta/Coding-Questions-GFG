@@ -16,11 +16,18 @@ Kadane's Algorithm:-
 6) return maxsum.
 
 Sum triplets:-
+
 comments:- I first wrote the program using ArrayList and the find method in it but it the find method has time complexity of O(n)
 which makes the tota complexity of the program as O(N^3). then i did some research and fount out that if we use HashMaps, keep the 
 elements of the array as the key, and use the method "ContainsKey" then we could get the result with O(1) as the HashMaps uses the
 BST to search the element.
 
-1)
+1) Make a HashMap and assign all the elements of the array as the keys in the map.
+2) Declare and initiate a varaible "count" as 0
+3) Start 2 for loops 1st with i from 0 to size. and 2nd inside the 1st with j starting from i+1 till size
+4) Inside the loops make an if statement checkinf if the keys of the HashMaps contains a[i]+a[j], if true then increment count.
+5) return count as the answer.
+
+
 
 
