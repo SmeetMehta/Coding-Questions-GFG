@@ -1,1 +1,6 @@
 Explainations for the programs:-
+
+Leaders:- 
+declare an integer with -1 value.
+start the iteration of FOR loop from the end of the array.
+put an if condition checking if the 
