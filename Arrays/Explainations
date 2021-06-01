@@ -1,6 +1,18 @@
 Explainations for the programs:-
 
 Leaders:- 
-declare an integer with -1 value.
-start the iteration of FOR loop from the end of the array.
-put an if condition checking if the 
+1) declare an integer "max"  with the last value of Array and an empty list.
+2) start the iteration of FOR loop from the end of the array.
+3) put an if condition checking if the i'th element is greater than max. 
+4) if true then add the element in the list and assign "max" as that element.
+5) out of for loop reverse the list. and return the reversed list as ans.
+
+Kadane's Algorithm:-
+1) declare a variable "sum" as 0 and "maxsum" as maxint value.
+2) start FOR loop from 0 to size of array and do the following.
+3) add the i'th element in the sum
+4) check if "maxsum" is less than "sum", if true then set "maxsum" as "sum".
+5) Check if "sum" is less than 0, if true then set "sum" as 0.  (Very crucial step)
+6) return maxsum.
+
+
