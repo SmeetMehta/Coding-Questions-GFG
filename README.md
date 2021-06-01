@@ -4,3 +4,5 @@ I store the programs solved by me over here.
 List of the programs :-
 1) sum Triplet (Java)
 2) continuous subarray of max sum(kadane's algo) (Java,Python)
+3) Missing number in array (Java)
+4) Leader in Array (Java)
