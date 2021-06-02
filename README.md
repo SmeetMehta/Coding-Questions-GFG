@@ -9,3 +9,4 @@ List of the programs :-
 5) Merge Without Extra Space (Java)
 6) Equilibrium point (Python)
 7) Minimum Platforms (Python,Java)
+8) Reverse array in groups (Java)
