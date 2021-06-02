@@ -1,19 +1,19 @@
 Explainations for the programs:-
 
 Leaders:- 
-1) declare an integer "max"  with the last value of Array and an empty list.
-2) start the iteration of FOR loop from the end of the array.
-3) put an if condition checking if the i'th element is greater than max. 
-4) if true then add the element in the list and assign "max" as that element.
-5) out of for loop reverse the list. and return the reversed list as ans.
+1) Declare an integer "max"  with the last value of Array and an empty list.
+2) Start the iteration of FOR loop from the end of the array.
+3) Put an if condition checking if the i'th element is greater than max. 
+4) If true then add the element in the list and assign "max" as that element.
+5) Out of for loop reverse the list. and return the reversed list as ans.
 
 Kadane's Algorithm:-
-1) declare a variable "sum" as 0 and "maxsum" as maxint value.
-2) start FOR loop from 0 to size of array and do the following.
-3) add the i'th element in the sum
-4) check if "maxsum" is less than "sum", if true then set "maxsum" as "sum".
+1) Declare a variable "sum" as 0 and "maxsum" as maxint value.
+2) Start FOR loop from 0 to size of array and do the following.
+3) Add the i'th element in the sum
+4) Check if "maxsum" is less than "sum", if true then set "maxsum" as "sum".
 5) Check if "sum" is less than 0, if true then set "sum" as 0.  (Very crucial step)
-6) return maxsum.
+6) Return maxsum.
 
 Sum triplets:-
 
@@ -26,7 +26,30 @@ BST to search the element.
 2) Declare and initiate a varaible "count" as 0
 3) Start 2 for loops 1st with i from 0 to size. and 2nd inside the 1st with j starting from i+1 till size
 4) Inside the loops make an if statement checkinf if the keys of the HashMaps contains a[i]+a[j], if true then increment count.
-5) return count as the answer.
+5) Return count as the answer.
+
+Equilibrium Point:-
+
+1) If there is only 1 element in the given array then return 1.
+2) I declared 2 variables "res" as -1 and "sum" as 0, and an Empty List.
+3) The list is used to store the sum till ith element of the array.
+     For eg. if the array is [1,3,5,2,2]
+     then, the list will be [1,4,9,11,13]
+4) Check for the given condition for Equilibrium point. 
+    if(B[i]==(B[N-1]-B[i+1]))
+    this checks if the ith element is equal to the differnece of the total sum of the array minus the sum till i+1 th element of array.
+    if that is equal hence we can say that i+2 th place is the equilibrium point.
+    in the above example the equilibrium point is "5" which is 3rd position, therefore the condition will sstisfy as follows:-
+    B[1]=4 , B[N-1]=13 , B[1+1]=9
+    4=13-9
+    4=4 therfore the position of Equilibrium point is 1+2 = 3
+    
+ 
+  
+
+
+
+
 
 
 
