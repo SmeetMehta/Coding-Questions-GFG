@@ -8,4 +8,4 @@ List of the programs :-
 4) Leader in Array (Java)
 5) Merge Without Extra Space (Java)
 6) Equilibrium point (Python)
-7) Minimum Platforms (Python)
+7) Minimum Platforms (Python,Java)
