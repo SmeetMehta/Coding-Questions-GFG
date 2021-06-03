@@ -10,3 +10,4 @@ List of the programs :-
 6) Equilibrium point (Python)
 7) Minimum Platforms (Python,Java)
 8) Reverse array in groups (Java)
+9) Kth smallest elment (Python,Java)
