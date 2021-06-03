@@ -44,7 +44,18 @@ Equilibrium Point:-
     4=13-9
     4=4 therfore the position of Equilibrium point is 1+2 = 3
     
- 
+
+    
+Kth smallest element:-
+
+Comment:- I have used Priority Queue for the 1st time in java. the function used here is poll(). it removes the head element from the Queue.
+the pririty queue stores the elements entered in a sorted manner.
+
+1) Add all the elements from array to Priority Queue.(It will sort the array automatically) O(log n)
+2) Now run a for loop from 0 to k-1 and poll() on every iteration. (Note- poll() will remove the head of the queue)
+3) return the poll() (kth smallest element)
+
+
   
 
 
