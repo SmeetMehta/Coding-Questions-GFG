@@ -11,3 +11,4 @@ List of the programs :-
 7) Minimum Platforms (Python,Java)
 8) Reverse array in groups (Java)
 9) Kth smallest elment (Python,Java)
+10) Pythagorean Triplet (Java)
