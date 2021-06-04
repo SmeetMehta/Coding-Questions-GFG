@@ -10,4 +10,4 @@ List of the programs :-
 8) Reverse array in groups (Java)
 9) Kth smallest elment (Python,Java)
 10) Pythagorean Triplet (Java)
-11) Chocolate Distribution Problem (Java)
+11) Chocolate Distribution Problem (Java,Python)
