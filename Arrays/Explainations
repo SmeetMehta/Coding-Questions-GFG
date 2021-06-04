@@ -43,9 +43,7 @@ Equilibrium Point:-
     B[1]=4 , B[N-1]=13 , B[1+1]=9
     4=13-9
     4=4 therfore the position of Equilibrium point is 1+2 = 3
-    
-
-    
+     
 Kth smallest element:-
 
 Comment:- I have used Priority Queue for the 1st time in java. the function used here is poll(). it removes the head element from the Queue.
@@ -54,6 +52,19 @@ the pririty queue stores the elements entered in a sorted manner.
 1) Add all the elements from array to Priority Queue.(It will sort the array automatically) O(log n)
 2) Now run a for loop from 0 to k-1 and poll() on every iteration. (Note- poll() will remove the head of the queue)
 3) return the poll() (kth smallest element)
+
+Chocolate Distribution Problem:-
+
+1) Declare a variable "mini" first to store the maximum value of "Long" and then to store the minimum difference between the maximum chocolate in a bag
+   and minimum chocolate in a bag.
+2) Sort the given ArrayList.
+3) Run a for loop from i=n-1 till i-m+1 is grater than 0. n-size of array, m the number of chocolate bags to be chosen. 
+
+Note:- The array is sorted in the first place so that we can get the order of the bags arranged. now we directly check the differneces between the ith bag and i+m-1 th bag
+after storing that in "mini" we simultaneously chech wheather mini has the minimum value. so that we get the minimum differnce as mentioned in the question. 
+
+ 
+
 
 
   
