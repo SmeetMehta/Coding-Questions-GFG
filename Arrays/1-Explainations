@@ -68,6 +68,9 @@ Arrange the elements of the array in Zig-Zag fasion:-
 Note- First I used a temp variable to perform the swap. but the space complexcity was not satisfied. 
 therefore I stored the array into ArrayList and used Collections.swap() funtion. making this chnage the code was accepted.
 
+Last Index of 1:-
+
+Note:- I learned for the 1st time how to use for loop in reverse manner in python [Pleading Guilty ;) ] 
 
  
 
