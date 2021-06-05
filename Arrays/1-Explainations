@@ -63,6 +63,12 @@ Chocolate Distribution Problem:-
 Note:- The array is sorted in the first place so that we can get the order of the bags arranged. now we directly check the differneces between the ith bag and i+m-1 th bag
 after storing that in "mini" we simultaneously chech wheather mini has the minimum value. so that we get the minimum differnce as mentioned in the question. 
 
+Arrange the elements of the array in Zig-Zag fasion:-
+
+Note- First I used a temp variable to perform the swap. but the space complexcity was not satisfied. 
+therefore I stored the array into ArrayList and used Collections.swap() funtion. making this chnage the code was accepted.
+
+
  
 
 
