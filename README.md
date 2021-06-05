@@ -12,3 +12,4 @@ List of the programs :-
 10) Pythagorean Triplet (Java)
 11) Chocolate Distribution Problem (Java,Python)
 12) Convert array into Zig-Zag fashion (Java)
+13) Last index of One (Java,Python)
