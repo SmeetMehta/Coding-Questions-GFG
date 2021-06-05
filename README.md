@@ -11,5 +11,5 @@ List of the programs :-
 9) Kth smallest elment (Python,Java)
 10) Pythagorean Triplet (Java)
 11) Chocolate Distribution Problem (Java,Python)
-12) Convert array into Zig-Zag fashion (Java)
+12) Convert array into Zig-Zag fashion (Java,Python)
 13) Last index of One (Java,Python)
