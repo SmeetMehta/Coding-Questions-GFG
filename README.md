@@ -13,4 +13,8 @@ List of the programs :-
 11) Chocolate Distribution Problem (Java,Python)
 12) Convert array into Zig-Zag fashion (Java,Python)
 13) Last index of One (Java,Python)
-14) 
+
+String---
+
+1) 
+2) 
