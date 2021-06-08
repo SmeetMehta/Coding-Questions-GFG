@@ -1,1 +1,6 @@
-Explaination for the code is written here
+Explainations for the programs:-
+
+Reverse words in a given string:-
+
+Note- For writing the program in Java, 1st I wrote the program using arraylist, it executed succesfully, but when i submitted it I got TLE. 
+after facing that issue I used the Data struction stack for the 1st time in java.
