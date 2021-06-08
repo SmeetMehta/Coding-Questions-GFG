@@ -1,5 +1,8 @@
 # List Of Programs
 List of the programs :-
+
+Arrays---
+
 1) Sum Triplet (Java)
 2) Continuous subarray of max sum(kadane's algo) (Java,Python)
 3) Missing number in array (Java)
