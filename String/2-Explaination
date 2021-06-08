@@ -4,3 +4,9 @@ Reverse words in a given string:-
 
 Note- For writing the program in Java, 1st I wrote the program using arraylist, it executed succesfully, but when i submitted it I got TLE. 
 after facing that issue I used the Data struction stack for the 1st time in java.
+
+1) First I run the for loop till the size of string and using the charAt function, I concatinate the character into an empty string, untill
+   I encounter a "." 
+2) I i come across the "." , I push the concatinated String (A word before the dot),I push a "." into the stack and then I initialze the string
+   as null. (to store the next word in it).
+3) After this just start concatinating the top of the stack into another string, using pop function and then return that string.
