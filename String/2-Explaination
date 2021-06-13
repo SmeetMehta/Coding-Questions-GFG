@@ -11,15 +11,3 @@ after facing that issue I used the Data struction stack for the 1st time in java
    as null. (to store the next word in it).
 3) After this just start concatinating the top of the stack into another string, using pop function and then return that string.
 
-class Solution:
-    def longestPalin(self, S):
-        # code here
-        l=""
-        x=""
-        le=0
-        for i in range(0,len(S)):
-            l=S[i:]
-            if(l==l[::-1] and len(l)>le):
-                x=l
-                
-        return x
