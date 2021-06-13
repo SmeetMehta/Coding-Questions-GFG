@@ -20,4 +20,4 @@ Arrays---
 String---
 
 1) Reverse words in a given string (Python)
-2) 
+2) Longest Palindrome in a String (Python)
