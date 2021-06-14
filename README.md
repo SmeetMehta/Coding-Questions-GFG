@@ -23,5 +23,6 @@ String---
 2) Longest Palindrome in a String (Python)
 3) Check if string is rotated by two places (Java,Python)
 4) Permutations of a given string (Python)
-5) 
+5) Anagram (Java)
+6) 
 
