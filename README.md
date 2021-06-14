@@ -22,5 +22,6 @@ String---
 1) Reverse words in a given string (Python,Java)
 2) Longest Palindrome in a String (Python)
 3) Check if string is rotated by two places (Java)
-4) 
+4) Permutations of a given string (Python)
+5) 
 
