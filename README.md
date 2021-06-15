@@ -24,5 +24,6 @@ String---
 3) Check if string is rotated by two places (Java,Python)
 4) Permutations of a given string (Python)
 5) Anagram (Java,Python)
-6) 
+6) Remove Duplicates (Python,Java)
+7) 
 
