@@ -25,5 +25,10 @@ String---
 4) Permutations of a given string (Python)
 5) Anagram (Java,Python)
 6) Remove Duplicates (Python,Java)
-7) 
+
+Linked List---
+
+1) Finding middle element in a linked list (Java)
+2) 
+
 
