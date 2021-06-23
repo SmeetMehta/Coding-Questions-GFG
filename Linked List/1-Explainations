@@ -1,6 +1,7 @@
 Explainations for the programs:-
 
 Middle Element:-
+
 1) First I found the size of the linked list by trversing till the end. so that i can write the program 
    with the 2 possible test cases. 
 2) If the size is even then i travesed while temp.next.next!=None:
@@ -11,3 +12,8 @@ Middle Element:-
     a) temp is assigned to next of next
     b) temp1 is assigned to next
     c) the data of temp1 is returned.
+    
+ 
+Reverse Linked List:-
+
+1) I have used recursion to reverse the linked list.
