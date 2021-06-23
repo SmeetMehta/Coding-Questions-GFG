@@ -28,7 +28,7 @@ String---
 
 Linked List---
 
-1) Finding middle element in a linked list (Java)
+1) Finding middle element in a linked list (Java,Python)
 2) 
 
 
