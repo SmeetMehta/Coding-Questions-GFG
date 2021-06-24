@@ -19,3 +19,12 @@ Reverse Linked List:-
 1) I have used recursion to reverse the linked list.
 
 Refer to this link for the better explainatiomn: -  https://www.youtube.com/watch?v=KYH83T4q6Vs
+
+Rotate by k:-
+
+1) First I took to node variable temp and temp1 initialised as head.
+2) I used temp1 to traverse till the end of the LinkedList and then I referenced the last node's next to head.
+   because after the rotation the list will be continuing from last node itself.
+3) I used temp to traverse till the k'th element of the Linked List.
+4) I created a newnode and initialised it as temp of next. so it will start from k+1'th element.
+5) Now dereference the temp of next as null/None.
