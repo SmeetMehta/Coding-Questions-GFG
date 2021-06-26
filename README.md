@@ -31,7 +31,7 @@ Linked List---
 1) Finding middle element in a linked list (Java,Python)
 2) Rotate a Linked List (Java,Python)
 3) Reverse a linked list (Java)
-4) 
+4) Intersection Point in Y Shapped LinkedLists (Java)
 
 
 
