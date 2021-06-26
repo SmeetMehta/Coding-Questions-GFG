@@ -28,3 +28,27 @@ Rotate by k:-
 3) I used temp to traverse till the k'th element of the Linked List.
 4) I created a newnode and initialised it as temp of next. so it will start from k+1'th element.
 5) Now dereference the temp of next as null/None.
+
+Intersection Point in Y Shapped LinkedLists:-
+
+1) Declared 2 temporary nodes initialised as head1 and head2.
+2) Declared a HashMap with Node(address) as the key and Integer as the value.
+3) Initialise int i=0 and x=-1
+4) Run while loop till temp1 is not null.
+   a) If map contains the Node(address) then inclease the value from 1 to 2 and break.
+   b) If the Node(address) is uniquw then keep the key as 1.
+5) Run while loop till temp2 is not null.
+   a) If map contains the Node(address) then inclease the value from 1 to 2 and break.
+   b) If the Node(address) is uniquw then keep the key as 1.
+6) Create a Node newnode.
+7) Initialise newnode to the key corresponding to the value = 2
+8) Keep x as newnode's data.
+9) Return x.
+
+Logic.:- I saved the address (unique for all the elements except the intersection) as the key in the HashMap.
+         1st I go from head1 to end of Linked List simultaneosly add the addresses to the HashMap. Now I started 
+         from head2 to end of the Linked List simultaneosly add the addresses to the HashMap. now when I encounter
+         the intersection point. the address is already present as a key in the HashMap. so the value is incremented
+         by 1 and the break is applied. now get the key from the HashMap who has value=2, and then return the data of that node.
+  
+  
