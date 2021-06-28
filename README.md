@@ -33,6 +33,8 @@ Linked List---
 3) Reverse a linked list (Java)
 4) Intersection Point in Y Shapped LinkedLists (Java)
 5) Reverse Linked List in groups of given size (Java)
+6) Detect Loop in linked list (Java,Pyhton)
+7) 
 
 
 
