@@ -32,6 +32,8 @@ Linked List---
 2) Rotate a Linked List (Java,Python)
 3) Reverse a linked list (Java)
 4) Intersection Point in Y Shapped LinkedLists (Java)
+5) Reverse Linked List in groups of given size (Java)
+
 
 
 
