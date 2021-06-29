@@ -50,5 +50,17 @@ Logic.:- I saved the address (unique for all the elements except the intersectio
          from head2 to end of the Linked List simultaneosly add the addresses to the HashMap. now when I encounter
          the intersection point. the address is already present as a key in the HashMap. so the value is incremented
          by 1 and the break is applied. now get the key from the HashMap who has value=2, and then return the data of that node.
+         
+Remove loop in Linked List:-
+
+1) I declared a HashSet in java to store the address of already visited nodes.
+2) I declared 2 temp variables. one will move forward and another will move after that. 
+3) Add a while loop with the conditions temp.next!=null and HashSet does not contain the address of temp.
+   depicting we havent visited that node , implying the loop has not been encountered yet.
+4) after the while loop ends. i have added an if condition for the conition if the temp comes out of the loop
+   but temp.next is not null, therefor the loop is present so i terminate the loop by doing temp1.next=null. else
+   the loop is not peresent and return void.
+
+
   
   
