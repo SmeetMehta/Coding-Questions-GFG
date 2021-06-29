@@ -34,7 +34,8 @@ Linked List---
 4) Intersection Point in Y Shapped LinkedLists (Java)
 5) Reverse Linked List in groups of given size (Java)
 6) Detect Loop in linked list (Java,Pyhton)
-7) 
+7) Nth node from end of linked list (Python,Java)
+8) 
 
 
 
