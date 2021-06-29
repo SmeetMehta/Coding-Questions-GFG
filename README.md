@@ -35,7 +35,7 @@ Linked List---
 5) Reverse Linked List in groups of given size (Java)
 6) Detect Loop in linked list (Java,Pyhton)
 7) Nth node from end of linked list (Python,Java)
-8) 
+8) Remove loop in Linked List (Java,Python)
 
 
 
