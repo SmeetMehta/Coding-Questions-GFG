@@ -36,6 +36,7 @@ Linked List---
 6) Detect Loop in linked list (Java,Pyhton)
 7) Nth node from end of linked list (Python,Java)
 8) Remove loop in Linked List (Java,Python)
+9) Flattening a Linked List (Java)
 
 
 
