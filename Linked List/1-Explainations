@@ -60,6 +60,10 @@ Remove loop in Linked List:-
 4) after the while loop ends. i have added an if condition for the conition if the temp comes out of the loop
    but temp.next is not null, therefor the loop is present so i terminate the loop by doing temp1.next=null. else
    the loop is not peresent and return void.
+   
+Merge two sorted linked lists:-
+
+Watch this video for better understanding:- https://www.youtube.com/watch?v=bdWOmYL5d1g
 
 
   
