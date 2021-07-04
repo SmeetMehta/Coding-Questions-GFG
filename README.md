@@ -38,6 +38,7 @@ Linked List---
 8) Remove loop in Linked List (Java,Python)
 9) Flattening a Linked List (Java)
 10) Merge two sorted linked lists (Java)
+11) Pairwise swap elements of a linked list (Java)
 
 
 
