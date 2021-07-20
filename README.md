@@ -42,7 +42,8 @@ Linked List---
 12) Add two numbers represented by linked lists (Java)
 13) Check if Linked List is Palindrome (Java,Python)
 14) Implement Queue using Linked List (Java)
-15) 
+15) Implement Stack using Linked List (Java)
+16) 
 
 
 
