@@ -43,7 +43,7 @@ Linked List---
 13) Check if Linked List is Palindrome (Java,Python)
 14) Implement Queue using Linked List (Java)
 15) Implement Stack using Linked List (Java)
-16) Given a linked list of 0s,1s & 2s, sort it. (Java)
+16) Given a linked list of 0s,1s & 2s, sort it. (Java,Python)
 17) 
 
 
