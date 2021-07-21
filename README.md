@@ -45,8 +45,11 @@ Linked List---
 15) Implement Stack using Linked List (Java)
 16) Given a linked list of 0s,1s & 2s, sort it. (Java,Python)
 17) Delete without head pointer (Java,Python)
-18) 
 
+
+Stack & Queue---
+
+1) 
 
 
 
