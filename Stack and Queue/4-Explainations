@@ -10,3 +10,4 @@ Parenthesis Checker :-
 
 Note:- for every opening paranthesis we push a closing paranthesis and if we encounter a closing paranthesis then it should be same as the top
        of the stack. if it is not then the paranthesis are not balances hence we return false in the last elseif. 
+
