@@ -49,7 +49,8 @@ Linked List---
 
 Stack & Queue---
 
-1) Parenthesis Checker (Java)
+1) Parenthesis Checker (Java,Python)
+2) 
 
 
 
