@@ -1,4 +1,6 @@
-Parenthesis Checker
+Explainations for the programs:-
+
+Parenthesis Checker :-
 
 1) First convert the string into character array(for java) or List(for Python).
 2) now for each character , if we encounter open paranthesis, then push the respective closing paranthesis into the stack
