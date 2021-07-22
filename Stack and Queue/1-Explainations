@@ -1,0 +1,10 @@
+Parenthesis Checker
+
+1) First convert the string into character array(for java) or List(for Python).
+2) now for each character , if we encounter open paranthesis, then push the respective closing paranthesis into the stack
+   usinf the if-else-if ladder. in the last else if check if the stack is empty or pop an element and if that element is not
+   equal to the character we are encountering then return false.
+3) out of the for loop return true if the stack is empty else return false.
+
+Note:- for every opening paranthesis we push a closing paranthesis and if we encounter a closing paranthesis then it should be same as the top
+       of the stack. if it is not then the paranthesis are not balances hence we return false in the last elseif. 
