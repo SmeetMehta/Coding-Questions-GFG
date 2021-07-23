@@ -10,4 +10,23 @@ Parenthesis Checker :-
 
 Note:- for every opening paranthesis we push a closing paranthesis and if we encounter a closing paranthesis then it should be same as the top
        of the stack. if it is not then the paranthesis are not balances hence we return false in the last elseif. 
+       
+ Next Greater Element :-
+ 
+1) First I declared a stack of integers. The purpose of stack here is to store the index of the array until 
+    I encounter the greatest element on the right side of the current element.
+2) Now I declared an array of same size of the input array and all the elements initialised as -1.
+3) Now start a for loop from 1 to n
+   a) Start a while loop with the conditions that the stack is not empty and arr[TOS] is less than arr[i]
+      i) I conditions are met. store the i'th element of array in the TOS'th element of the ans array.
+      ii) pop from the stack.
+4) return ans.
 
+Queue using two Stacks :-
+
+1) For the push function i just push the element in s1.
+2) In the pop function, I 1st declared an integer with adefault value of -1
+2) Now using while loop untill s1 is not empty and push the poped element from s1 to s2.
+3) Check is s2 is not empty , them store s2.pop in x
+4) Run another while loop this time to put the element from s2 to s1.
+5) return x
