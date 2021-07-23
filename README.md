@@ -50,7 +50,7 @@ Linked List---
 Stack & Queue---
 
 1) Parenthesis Checker (Java,Python)
-2) 
+2) Next Greater Element (Java)
 
 
 
