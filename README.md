@@ -54,6 +54,7 @@ Stack & Queue---
 3) Queue using two Stacks (Java)
 4) Stack using two queues (Java)
 5) Circular tour (Java)
+6) First non-repeating character in a stream (Java)
 
 
 
