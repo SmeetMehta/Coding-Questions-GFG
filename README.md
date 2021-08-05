@@ -55,6 +55,7 @@ Stack & Queue---
 4) Stack using two queues (Java)
 5) Circular tour (Java)
 6) First non-repeating character in a stream (Java)
+7) Maximum of all subarrays of size k (Java)
 
 
 
