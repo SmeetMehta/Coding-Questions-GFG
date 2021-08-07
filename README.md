@@ -57,5 +57,9 @@ Stack & Queue---
 6) First non-repeating character in a stream (Java)
 7) Maximum of all subarrays of size k (Java)
 
+Tree ---
+
+1) Check for BST (Java)
+2) 
 
 
