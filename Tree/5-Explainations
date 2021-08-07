@@ -1,1 +1,17 @@
+Explainations for the programs:-
+
+Check for BST  :-
+
+1) Given a the root node to the Tree, create a function which takes 2 arguments root and arraylist
+    a) This method will store the inorder traversal in the array list given as the argument in the method.
+    b) Using Reccursion the inorder travering is done and the values are stored in an ArryaList.
+    
+2) In the IsBST function make 2 array lists and store the inorder traversal in both of them.
+3) After that use Collecetions.sort to sort any one of the List.
+3) Make a Hashset and pass the list as the argument while declaring that.
+    Note:- This is created to check weather the lements in the given tree are unique.
+           If the elements are not unique, it cannot be a BST.
+4) After that check if the 2 array list (Sorted and original) are same or not.
+    Note:- Inorder traversal in a BST gives a sorted list.
+5) If they are equal return true, else return false.
 
