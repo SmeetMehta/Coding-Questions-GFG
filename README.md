@@ -60,6 +60,7 @@ Stack & Queue---
 Tree ---
 
 1) Check for BST (Java)
-2) 
+2) Bottom View of Binary Tree (Java)
+3) 
 
 
