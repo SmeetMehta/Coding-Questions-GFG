@@ -15,3 +15,23 @@ Check for BST  :-
     Note:- Inorder traversal in a BST gives a sorted list.
 5) If they are equal return true, else return false.
 
+Bottom View of Binary Tree :-
+
+Note- I learnt about HashTree in Java and that it works on the principles of Red-Black Tree.
+      https://www.youtube.com/watch?v=ecQJCRBxabY - this video is the best explaination for it.
+1) To solve the problem, 1st i created class Pair, to store the node and flag for a given node.
+
+Note- start the flag from 0 if the pointer goes left then decreament flag, if the pointer goes right then increament flag.
+      finally we want the latest value of a particular number. i.e. if there are 2 '-1', then we have to display the value of '-1' which has been encountered latest.
+      
+2) For impilmenting the logic TreeMap is created of type <Integer,Integer>.
+3) To traverse, Queue is used, the queue is of type <Pair>. root node is added to the queue.
+4) Now a while loop is executed until the Queue is not empty    
+    a) Declare a new pair, which has the value of q.poll().
+    b) Put the data of that node along with the flag in the TreeMap.
+    c) Put the if statement for checking, if pair.root.left is not null then add a new pair in q, the pair of(pair.root.left,pair.flag-1).
+    d) Put the if statement for checking, if pair.root.right is not null then add a new pair in q, the pair of(pair.root.right,pair.flag+1).
+5) Now the map will have all the values we require for the answer.
+6) Return the ArrayList of the values in the map.
+
+
