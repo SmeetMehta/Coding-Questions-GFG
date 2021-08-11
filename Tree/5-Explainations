@@ -35,3 +35,35 @@ Note- start the flag from 0 if the pointer goes left then decreament flag, if th
 6) Return the ArrayList of the values in the map.
 
 
+Level order traversal in Spiral way:-
+
+1) Make an ArrayList of integers, to store the result.
+2) Check if root is null then return empty arraylist.
+3) Now declare 2 stacks which stores Nodes.
+        a) s1- to store Nodes in a given level, which will pop the nodes from left to right.
+        b) s2- to store Nodes in a given level, which will pop the nodes from right to left.
+4) Now push the root into stack 1.
+5) Run the while loop until either of the stack is having elements.
+        a) Run a while loop till stack 1 is not empty.
+            1) Declare a temp Node which stores the top of the stack.
+            2) Add the data of the temp into list.
+            3) If temp has a right node then push it into stack s2.
+            4) If temp has a left node then push it into stack s2.
+            
+            Note:- Here the sequence of if statements matters, 
+            the right node should be checked and pushed before left here, as we want the output in spiral form.
+            
+        b) Run a while loop till stack 2 is not empty.
+            1) Declare a temp Node which stores the top of the stack.
+            2) Add the data of the temp into list.
+            3) If temp has a left node then push it into stack s2.
+            4) If temp has a right node then push it into stack s2.
+            
+            Note:- Here the sequence of if statements matters, 
+            the left node should be checked and pushed before right here, as we want the output in spiral form.
+6) Return the ArrayList.
+            
+           
+            
+            
+           
