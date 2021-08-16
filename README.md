@@ -65,4 +65,5 @@ Tree ---
 4) Connect Nodes at Same Level (Java)
 5) Lowest Common Ancestor in a BST (Java)
 6) Binary Tree to DLL (Java)
+7) Determine if Two Trees are Identical (Java)
 
