@@ -67,4 +67,5 @@ Tree ---
 6) Binary Tree to DLL (Java)
 7) Determine if Two Trees are Identical (Java)
 8) Symmetric Tree (Java)
+9) Height of Binary Tree (Java)
 
