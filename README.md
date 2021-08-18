@@ -68,4 +68,5 @@ Tree ---
 7) Determine if Two Trees are Identical (Java)
 8) Symmetric Tree (Java)
 9) Height of Binary Tree (Java)
+10) Diameter of Binary Tree (Java)
 
