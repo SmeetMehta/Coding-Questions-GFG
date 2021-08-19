@@ -69,4 +69,5 @@ Tree ---
 8) Symmetric Tree (Java)
 9) Height of Binary Tree (Java)
 10) Diameter of Binary Tree (Java)
+11) Count Leaves in Binary Tree (Java)
 
