@@ -70,4 +70,5 @@ Tree ---
 9) Height of Binary Tree (Java)
 10) Diameter of Binary Tree (Java)
 11) Count Leaves in Binary Tree (Java)
+12) Check for Balanced Tree (Java) 
 
