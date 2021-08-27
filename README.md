@@ -71,3 +71,9 @@ Tree ---
 10) Diameter of Binary Tree (Java)
 11) Count Leaves in Binary Tree (Java)
 12) Check for Balanced Tree (Java) 
+
+
+Hashing ---
+
+1) Sort an array according to the other (Java)
+2) 
